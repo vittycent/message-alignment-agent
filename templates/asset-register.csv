@@ -1,0 +1,3 @@
+asset_id,version,file,title,asset_type,visibility,released,superseded_on,status,replaces,owner,audience,funnel_stage_as_written,stage_tags,role_tags,section_ids,words
+DECK-1,1.0,assets/DECK-1-pitch-deck-v1.md,"Pitch deck v1",pitch deck,customer facing,2025-06-16,2025-12-01,superseded,"Nothing",PMM,"Sustainability lead at a producer",Discovery and demo,discovery,AE,S01 S02 S03,1288
+DECK-2,2.0,assets/DECK-2-pitch-deck-v2.md,"Pitch deck v2",pitch deck,customer facing,2025-12-01,,current,"DECK-1 1.0",PMM,"Sustainability lead at a producer",Discovery and demo,discovery,AE,S01 S02 S03,1304

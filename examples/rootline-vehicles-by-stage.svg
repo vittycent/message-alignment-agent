@@ -1,0 +1,433 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="796" height="836" viewBox="0 0 796 836" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<rect width="796" height="836" fill="#ffffff"/>
+<text x="16" y="26" font-size="16" font-weight="600" fill="#1f1f1e">Assets by buying stage, W33, W34 and W37</text>
+<text x="16" y="45" font-size="12" fill="#6b6a66">Calls where the asset was used or named. Outlined: the stages the asset was written for.</text>
+<text x="302.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">Qualification</text>
+<text x="302.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">4 calls</text>
+<text x="408.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">Discovery</text>
+<text x="408.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">3 calls</text>
+<text x="514.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">Evaluation</text>
+<text x="514.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">7 calls</text>
+<text x="620.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">Onboarding</text>
+<text x="620.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">7 calls</text>
+<text x="726.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">Review and renewal</text>
+<text x="726.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">9 calls</text>
+<text x="16" y="110" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">DECKS</text>
+<text x="28" y="138" font-size="12.5" fill="#1f1f1e">Pitch deck</text>
+<text x="236" y="138" font-size="11" fill="#6b6a66" text-anchor="end">DECK-4</text>
+<g><title>DECK-4, Qualification, W33, W34 and W37: 1 of 4 calls</title>
+<rect x="250" y="118" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="302.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>DECK-4, Discovery, W33, W34 and W37: 2 of 3 calls</title>
+<rect x="356" y="118" width="104" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="408.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+<rect x="357" y="119" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>DECK-4, Evaluation, W33, W34 and W37: 3 of 7 calls</title>
+<rect x="462" y="118" width="104" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="514.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+</g>
+<g><title>DECK-4, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="118" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>DECK-4, Review and renewal, W33, W34 and W37: 1 of 9 calls</title>
+<rect x="674" y="118" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="726.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<text x="28" y="170" font-size="12.5" fill="#1f1f1e">Onboarding deck</text>
+<text x="236" y="170" font-size="11" fill="#6b6a66" text-anchor="end">ONB</text>
+<g><title>ONB, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="150" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>ONB, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="150" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>ONB, Evaluation, W33, W34 and W37: 2 of 7 calls</title>
+<rect x="462" y="150" width="104" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="514.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>ONB, Onboarding, W33, W34 and W37: 5 of 7 calls</title>
+<rect x="568" y="150" width="104" height="30" rx="4" fill="#137c1b" stroke="#137c1b"/>
+<text x="620.0" y="169.5" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="middle">5</text>
+<rect x="569" y="151" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>ONB, Review and renewal, W33, W34 and W37: 1 of 9 calls</title>
+<rect x="674" y="150" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="726.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<text x="28" y="202" font-size="12.5" fill="#1f1f1e">Business review</text>
+<text x="236" y="202" font-size="11" fill="#6b6a66" text-anchor="end">QBR</text>
+<g><title>QBR, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="182" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>QBR, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="182" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>QBR, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="182" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>QBR, Onboarding, W33, W34 and W37: 2 of 7 calls</title>
+<rect x="568" y="182" width="104" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="620.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>QBR, Review and renewal, W33, W34 and W37: 3 of 9 calls</title>
+<rect x="674" y="182" width="104" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="726.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+<rect x="675" y="183" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<text x="16" y="232" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">ONE PAGERS</text>
+<text x="28" y="260" font-size="12.5" fill="#1f1f1e">Overview</text>
+<text x="236" y="260" font-size="11" fill="#6b6a66" text-anchor="end">OP-1</text>
+<g><title>OP-1, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="240" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="251" y="241" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>OP-1, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="240" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="357" y="241" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>OP-1, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="240" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-1, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="240" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-1, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="240" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="28" y="292" font-size="12.5" fill="#1f1f1e">Business case</text>
+<text x="236" y="292" font-size="11" fill="#6b6a66" text-anchor="end">OP-2</text>
+<g><title>OP-2, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="272" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-2, Discovery, W33, W34 and W37: 1 of 3 calls</title>
+<rect x="356" y="272" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="408.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>OP-2, Evaluation, W33, W34 and W37: 3 of 7 calls</title>
+<rect x="462" y="272" width="104" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="514.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+<rect x="463" y="273" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>OP-2, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="272" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-2, Review and renewal, W33, W34 and W37: 1 of 9 calls</title>
+<rect x="674" y="272" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="726.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<text x="28" y="324" font-size="12.5" fill="#1f1f1e">Packaging</text>
+<text x="236" y="324" font-size="11" fill="#6b6a66" text-anchor="end">OP-PKG</text>
+<g><title>OP-PKG, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="304" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-PKG, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="304" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-PKG, Evaluation, W33, W34 and W37: 1 of 7 calls</title>
+<rect x="462" y="304" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="514.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+<rect x="463" y="305" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>OP-PKG, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="304" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-PKG, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="304" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="675" y="305" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<text x="28" y="356" font-size="12.5" fill="#1f1f1e">Scorecard framing</text>
+<text x="236" y="356" font-size="11" fill="#6b6a66" text-anchor="end">CSF</text>
+<g><title>CSF, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="336" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>CSF, Discovery, W33, W34 and W37: 2 of 3 calls</title>
+<rect x="356" y="336" width="104" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="408.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+<rect x="357" y="337" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>CSF, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="336" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="463" y="337" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>CSF, Onboarding, W33, W34 and W37: 1 of 7 calls</title>
+<rect x="568" y="336" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="620.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>CSF, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="336" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="675" y="337" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<text x="28" y="388" font-size="12.5" fill="#1f1f1e">What happens next</text>
+<text x="236" y="388" font-size="11" fill="#6b6a66" text-anchor="end">WHN</text>
+<g><title>WHN, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="368" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="387.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WHN, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="368" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="387.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WHN, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="368" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="387.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="463" y="369" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>WHN, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="368" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="387.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="569" y="369" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>WHN, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="368" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="387.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="675" y="369" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<text x="16" y="418" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">SCRIPTS AND TEMPLATES</text>
+<text x="28" y="446" font-size="12.5" fill="#1f1f1e">SDR script</text>
+<text x="236" y="446" font-size="11" fill="#6b6a66" text-anchor="end">SCRIPT</text>
+<g><title>SCRIPT, Qualification, W33, W34 and W37: 3 of 4 calls</title>
+<rect x="250" y="426" width="104" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="302.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+<rect x="251" y="427" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>SCRIPT, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="426" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>SCRIPT, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="426" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>SCRIPT, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="426" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>SCRIPT, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="426" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="28" y="478" font-size="12.5" fill="#1f1f1e">Supplier outreach</text>
+<text x="236" y="478" font-size="11" fill="#6b6a66" text-anchor="end">TPL</text>
+<g><title>TPL, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="458" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>TPL, Discovery, W33, W34 and W37: 1 of 3 calls</title>
+<rect x="356" y="458" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="408.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>TPL, Evaluation, W33, W34 and W37: 1 of 7 calls</title>
+<rect x="462" y="458" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="514.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>TPL, Onboarding, W33, W34 and W37: 3 of 7 calls</title>
+<rect x="568" y="458" width="104" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="620.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+<rect x="569" y="459" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>TPL, Review and renewal, W33, W34 and W37: 2 of 9 calls</title>
+<rect x="674" y="458" width="104" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="726.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<text x="16" y="508" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">BLOGS AND GUIDES</text>
+<text x="28" y="536" font-size="12.5" fill="#1f1f1e">Dairy on the farm</text>
+<text x="236" y="536" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-1</text>
+<g><title>BLOG-1, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="516" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-1, Discovery, W33, W34 and W37: 1 of 3 calls</title>
+<rect x="356" y="516" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="408.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-1, Evaluation, W33, W34 and W37: 1 of 7 calls</title>
+<rect x="462" y="516" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="514.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-1, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="516" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-1, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="516" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="28" y="568" font-size="12.5" fill="#1f1f1e">First CSRD report</text>
+<text x="236" y="568" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-2</text>
+<g><title>BLOG-2, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="548" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-2, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="548" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="357" y="549" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>BLOG-2, Evaluation, W33, W34 and W37: 1 of 7 calls</title>
+<rect x="462" y="548" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="514.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-2, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="548" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-2, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="548" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="28" y="600" font-size="12.5" fill="#1f1f1e">Brewery story</text>
+<text x="236" y="600" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-3</text>
+<g><title>BLOG-3, Qualification, W33, W34 and W37: 1 of 4 calls</title>
+<rect x="250" y="580" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="302.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-3, Discovery, W33, W34 and W37: 1 of 3 calls</title>
+<rect x="356" y="580" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="408.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+<rect x="357" y="581" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>BLOG-3, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="580" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-3, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="580" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-3, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="580" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="28" y="632" font-size="12.5" fill="#1f1f1e">Retailer scorecard</text>
+<text x="236" y="632" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-4</text>
+<g><title>BLOG-4, Qualification, W33, W34 and W37: 1 of 4 calls</title>
+<rect x="250" y="612" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="302.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-4, Discovery, W33, W34 and W37: 1 of 3 calls</title>
+<rect x="356" y="612" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="408.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+<rect x="357" y="613" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>BLOG-4, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="612" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-4, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="612" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-4, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="612" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="28" y="664" font-size="12.5" fill="#1f1f1e">Packaging launch</text>
+<text x="236" y="664" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-PKG</text>
+<g><title>BLOG-PKG, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="644" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-PKG, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="644" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="357" y="645" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>BLOG-PKG, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="644" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-PKG, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="644" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-PKG, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="644" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<rect x="675" y="645" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<text x="28" y="696" font-size="12.5" fill="#1f1f1e">Supplier data guide</text>
+<text x="236" y="696" font-size="11" fill="#6b6a66" text-anchor="end">GUIDE</text>
+<g><title>GUIDE, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="676" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>GUIDE, Discovery, W33, W34 and W37: 1 of 3 calls</title>
+<rect x="356" y="676" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="408.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+<rect x="357" y="677" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<g><title>GUIDE, Evaluation, W33, W34 and W37: 4 of 7 calls</title>
+<rect x="462" y="676" width="104" height="30" rx="4" fill="#4fa84a" stroke="#4fa84a"/>
+<text x="514.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">4</text>
+</g>
+<g><title>GUIDE, Onboarding, W33, W34 and W37: 1 of 7 calls</title>
+<rect x="568" y="676" width="104" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="620.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>GUIDE, Review and renewal, W33, W34 and W37: 0 of 9 calls</title>
+<rect x="674" y="676" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="726.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<text x="16" y="726" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">WEBINARS</text>
+<text x="28" y="754" font-size="12.5" fill="#1f1f1e">Scope change webinar</text>
+<text x="236" y="754" font-size="11" fill="#6b6a66" text-anchor="end">WEB</text>
+<g><title>WEB, Qualification, W33, W34 and W37: 0 of 4 calls</title>
+<rect x="250" y="734" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="302.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WEB, Discovery, W33, W34 and W37: 0 of 3 calls</title>
+<rect x="356" y="734" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="408.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WEB, Evaluation, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="462" y="734" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="514.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WEB, Onboarding, W33, W34 and W37: 0 of 7 calls</title>
+<rect x="568" y="734" width="104" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="620.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WEB, Review and renewal, W33, W34 and W37: 2 of 9 calls</title>
+<rect x="674" y="734" width="104" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="726.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+<rect x="675" y="735" width="102" height="28" rx="3.5" fill="none" stroke="#1f1f1e" stroke-width="2"/>
+</g>
+<rect x="16" y="792" width="22" height="16" rx="3" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="43" y="804" font-size="11" fill="#6b6a66">0</text>
+<rect x="66" y="792" width="22" height="16" rx="3" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="93" y="804" font-size="11" fill="#6b6a66">1</text>
+<rect x="116" y="792" width="22" height="16" rx="3" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="143" y="804" font-size="11" fill="#6b6a66">2</text>
+<rect x="166" y="792" width="22" height="16" rx="3" fill="#93cc88" stroke="#93cc88"/>
+<text x="193" y="804" font-size="11" fill="#6b6a66">3</text>
+<rect x="216" y="792" width="22" height="16" rx="3" fill="#4fa84a" stroke="#4fa84a"/>
+<text x="243" y="804" font-size="11" fill="#6b6a66">4</text>
+<rect x="266" y="792" width="22" height="16" rx="3" fill="#137c1b" stroke="#137c1b"/>
+<text x="293" y="804" font-size="11" fill="#6b6a66">5 or more</text>
+<rect x="354" y="792" width="22" height="16" rx="3" fill="#f1f0ec" stroke="#d6d5d0"/><text x="365" y="804" font-size="11" fill="#6b6a66" text-anchor="middle">·</text>
+<text x="381" y="804" font-size="11" fill="#6b6a66">no calls at this stage</text>
+<rect x="526.4" y="792" width="22" height="16" rx="3" fill="#ffffff" stroke="#1f1f1e" stroke-width="2"/>
+<text x="553.4" y="804" font-size="11" fill="#6b6a66">written for this stage</text>
+</svg>

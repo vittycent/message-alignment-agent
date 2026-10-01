@@ -1,0 +1,16 @@
+claim_id,asset_id,version,section_id,strength,released,superseded_on,heading
+C01,POS-1,1.0,6.1,full,2025-06-02,2026-02-09,Built for food
+C01,POS-2,2.0,6.3,full,2026-02-09,,"Built for food, measured at the ingredient"
+C01,DECK-1,1.0,S01,full,2025-06-16,2025-12-01,Carbon accounting built for food
+C01,DECK-2,2.0,S04,full,2025-12-01,2026-03-16,Built only for food
+C01,DECK-3,3.0,S04,full,2026-03-16,2026-08-10,Built only for food
+C01,DECK-4,4.0,S04,full,2026-08-10,,Built only for food
+C01,OP-1,1.0,TITLE,full,2026-03-23,,Rootline: carbon accounting built only for food and beverage
+C01,OP-1,1.0,H1,full,2026-03-23,,What Rootline does
+C01,OP-2,1.0,4,full,2026-04-13,,Why Rootline
+C01,BLOG-1,1.0,6,family,2025-07-08,,A simple way to start
+C01,BLOG-3,1.0,H1,family,2026-03-25,,Key takeaways
+C01,BLOG-4,1.0,H1,family,2026-08-12,,Key takeaways
+C01,BLOG-PKG,1.0,8,family,2025-11-04,,Questions we expect
+C02,POS-1,1.0,6.1,full,2025-06-02,2026-02-09,Built for food
+C02,DECK-1,1.0,S03,full,2025-06-16,2025-12-01,"In food, one line is the footprint"

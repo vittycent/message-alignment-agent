@@ -1,0 +1,628 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="858" height="836" viewBox="0 0 858 836" font-family="-apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<rect width="858" height="836" fill="#ffffff"/>
+<text x="16" y="26" font-size="16" font-weight="600" fill="#1f1f1e">Asset use, week over week</text>
+<text x="16" y="45" font-size="12" fill="#6b6a66">Calls each week where the asset was used or named.</text>
+<text x="286.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W33</text>
+<text x="286.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">10 calls</text>
+<text x="360.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W34</text>
+<text x="360.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">11 calls</text>
+<text x="434.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W35</text>
+<text x="434.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">11 calls</text>
+<text x="508.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W36</text>
+<text x="508.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">10 calls</text>
+<text x="582.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W37</text>
+<text x="582.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">9 calls</text>
+<text x="656.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W38</text>
+<text x="656.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">9 calls</text>
+<text x="730.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W39</text>
+<text x="730.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">9 calls</text>
+<text x="804.0" y="72" font-size="12" font-weight="600" fill="#1f1f1e" text-anchor="middle">W40</text>
+<text x="804.0" y="86" font-size="11" fill="#6b6a66" text-anchor="middle">9 calls</text>
+<text x="16" y="110" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">DECKS</text>
+<text x="28" y="138" font-size="12.5" fill="#1f1f1e">Pitch deck</text>
+<text x="236" y="138" font-size="11" fill="#6b6a66" text-anchor="end">DECK-4</text>
+<g><title>DECK-4, W33: 3 of 10 calls (released this week)</title>
+<rect x="250" y="118" width="72" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="286.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+<path d="M309 129 l5 -7 l5 7 z" fill="#1f1f1e"/>
+</g>
+<g><title>DECK-4, W34: 3 of 11 calls</title>
+<rect x="324" y="118" width="72" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="360.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+</g>
+<g><title>DECK-4, W35: not run yet (step 3)</title>
+<rect x="398" y="118" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="137" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>DECK-4, W36: not run yet (step 3)</title>
+<rect x="472" y="118" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="137" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>DECK-4, W37: 1 of 9 calls</title>
+<rect x="546" y="118" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="137.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>DECK-4, W38: not run yet (step 3)</title>
+<rect x="620" y="118" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="137" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>DECK-4, W39: not run yet (step 3)</title>
+<rect x="694" y="118" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="137" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>DECK-4, W40: not run yet (step 3)</title>
+<rect x="768" y="118" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="137" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="170" font-size="12.5" fill="#1f1f1e">Onboarding deck</text>
+<text x="236" y="170" font-size="11" fill="#6b6a66" text-anchor="end">ONB</text>
+<g><title>ONB, W33: 3 of 10 calls</title>
+<rect x="250" y="150" width="72" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="286.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+</g>
+<g><title>ONB, W34: 4 of 11 calls</title>
+<rect x="324" y="150" width="72" height="30" rx="4" fill="#4fa84a" stroke="#4fa84a"/>
+<text x="360.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">4</text>
+</g>
+<g><title>ONB, W35: not run yet (step 3)</title>
+<rect x="398" y="150" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="169" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>ONB, W36: not run yet (step 3)</title>
+<rect x="472" y="150" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="169" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>ONB, W37: 1 of 9 calls</title>
+<rect x="546" y="150" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="169.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>ONB, W38: not run yet (step 3)</title>
+<rect x="620" y="150" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="169" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>ONB, W39: not run yet (step 3)</title>
+<rect x="694" y="150" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="169" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>ONB, W40: not run yet (step 3)</title>
+<rect x="768" y="150" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="169" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="202" font-size="12.5" fill="#1f1f1e">Business review</text>
+<text x="236" y="202" font-size="11" fill="#6b6a66" text-anchor="end">QBR</text>
+<g><title>QBR, W33: 1 of 10 calls</title>
+<rect x="250" y="182" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="286.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>QBR, W34: 3 of 11 calls</title>
+<rect x="324" y="182" width="72" height="30" rx="4" fill="#93cc88" stroke="#93cc88"/>
+<text x="360.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">3</text>
+</g>
+<g><title>QBR, W35: not run yet (step 3)</title>
+<rect x="398" y="182" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="201" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>QBR, W36: not run yet (step 3)</title>
+<rect x="472" y="182" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="201" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>QBR, W37: 1 of 9 calls</title>
+<rect x="546" y="182" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="201.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>QBR, W38: not run yet (step 3)</title>
+<rect x="620" y="182" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="201" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>QBR, W39: not run yet (step 3)</title>
+<rect x="694" y="182" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="201" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>QBR, W40: not run yet (step 3)</title>
+<rect x="768" y="182" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="201" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="16" y="232" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">ONE PAGERS</text>
+<text x="28" y="260" font-size="12.5" fill="#1f1f1e">Overview</text>
+<text x="236" y="260" font-size="11" fill="#6b6a66" text-anchor="end">OP-1</text>
+<g><title>OP-1, W33: 0 of 10 calls</title>
+<rect x="250" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-1, W34: 0 of 11 calls</title>
+<rect x="324" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="360.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-1, W35: not run yet (step 3)</title>
+<rect x="398" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="259" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-1, W36: not run yet (step 3)</title>
+<rect x="472" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="259" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-1, W37: 0 of 9 calls</title>
+<rect x="546" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="582.0" y="259.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-1, W38: not run yet (step 3)</title>
+<rect x="620" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="259" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-1, W39: not run yet (step 3)</title>
+<rect x="694" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="259" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-1, W40: not run yet (step 3)</title>
+<rect x="768" y="240" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="259" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="292" font-size="12.5" fill="#1f1f1e">Business case</text>
+<text x="236" y="292" font-size="11" fill="#6b6a66" text-anchor="end">OP-2</text>
+<g><title>OP-2, W33: 2 of 10 calls</title>
+<rect x="250" y="272" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="286.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>OP-2, W34: 1 of 11 calls</title>
+<rect x="324" y="272" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="360.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>OP-2, W35: not run yet (step 3)</title>
+<rect x="398" y="272" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="291" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-2, W36: not run yet (step 3)</title>
+<rect x="472" y="272" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="291" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-2, W37: 2 of 9 calls</title>
+<rect x="546" y="272" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="582.0" y="291.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>OP-2, W38: not run yet (step 3)</title>
+<rect x="620" y="272" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="291" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-2, W39: not run yet (step 3)</title>
+<rect x="694" y="272" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="291" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-2, W40: not run yet (step 3)</title>
+<rect x="768" y="272" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="291" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="324" font-size="12.5" fill="#1f1f1e">Packaging</text>
+<text x="236" y="324" font-size="11" fill="#6b6a66" text-anchor="end">OP-PKG</text>
+<g><title>OP-PKG, W33: 0 of 10 calls</title>
+<rect x="250" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-PKG, W34: 0 of 11 calls</title>
+<rect x="324" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="360.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>OP-PKG, W35: not run yet (step 3)</title>
+<rect x="398" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="323" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-PKG, W36: not run yet (step 3)</title>
+<rect x="472" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="323" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-PKG, W37: 1 of 9 calls</title>
+<rect x="546" y="304" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="323.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>OP-PKG, W38: not run yet (step 3)</title>
+<rect x="620" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="323" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-PKG, W39: not run yet (step 3)</title>
+<rect x="694" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="323" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>OP-PKG, W40: not run yet (step 3)</title>
+<rect x="768" y="304" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="323" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="356" font-size="12.5" fill="#1f1f1e">Scorecard framing</text>
+<text x="236" y="356" font-size="11" fill="#6b6a66" text-anchor="end">CSF</text>
+<g><title>CSF, W33: 2 of 10 calls (released this week)</title>
+<rect x="250" y="336" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="286.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+<path d="M309 347 l5 -7 l5 7 z" fill="#1f1f1e"/>
+</g>
+<g><title>CSF, W34: 1 of 11 calls</title>
+<rect x="324" y="336" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="360.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>CSF, W35: not run yet (step 3)</title>
+<rect x="398" y="336" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="355" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>CSF, W36: not run yet (step 3)</title>
+<rect x="472" y="336" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="355" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>CSF, W37: 0 of 9 calls</title>
+<rect x="546" y="336" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="582.0" y="355.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>CSF, W38: not run yet (step 3)</title>
+<rect x="620" y="336" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="355" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>CSF, W39: not run yet (step 3)</title>
+<rect x="694" y="336" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="355" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>CSF, W40: not run yet (step 3)</title>
+<rect x="768" y="336" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="355" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="388" font-size="12.5" fill="#1f1f1e">What happens next</text>
+<text x="236" y="388" font-size="11" fill="#6b6a66" text-anchor="end">WHN</text>
+<g><title>WHN: not released by W33</title>
+<rect x="250" y="368" width="72" height="30" rx="4" fill="#f1f0ec" stroke="#d6d5d0"/>
+<text x="286.0" y="387" font-size="18" font-weight="700" fill="#6b6a66" text-anchor="middle">·</text>
+</g>
+<g><title>WHN: not released by W34</title>
+<rect x="324" y="368" width="72" height="30" rx="4" fill="#f1f0ec" stroke="#d6d5d0"/>
+<text x="360.0" y="387" font-size="18" font-weight="700" fill="#6b6a66" text-anchor="middle">·</text>
+</g>
+<g><title>WHN: not released by W35</title>
+<rect x="398" y="368" width="72" height="30" rx="4" fill="#f1f0ec" stroke="#d6d5d0"/>
+<text x="434.0" y="387" font-size="18" font-weight="700" fill="#6b6a66" text-anchor="middle">·</text>
+</g>
+<g><title>WHN: not released by W36</title>
+<rect x="472" y="368" width="72" height="30" rx="4" fill="#f1f0ec" stroke="#d6d5d0"/>
+<text x="508.0" y="387" font-size="18" font-weight="700" fill="#6b6a66" text-anchor="middle">·</text>
+</g>
+<g><title>WHN, W37: 0 of 9 calls (released this week)</title>
+<rect x="546" y="368" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="582.0" y="387.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<path d="M605 379 l5 -7 l5 7 z" fill="#1f1f1e"/>
+</g>
+<g><title>WHN, W38: not run yet (step 3)</title>
+<rect x="620" y="368" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="387" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>WHN, W39: not run yet (step 3)</title>
+<rect x="694" y="368" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="387" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>WHN, W40: not run yet (step 3)</title>
+<rect x="768" y="368" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="387" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="16" y="418" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">SCRIPTS AND TEMPLATES</text>
+<text x="28" y="446" font-size="12.5" fill="#1f1f1e">SDR script</text>
+<text x="236" y="446" font-size="11" fill="#6b6a66" text-anchor="end">SCRIPT</text>
+<g><title>SCRIPT, W33: 0 of 10 calls</title>
+<rect x="250" y="426" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>SCRIPT, W34: 1 of 11 calls</title>
+<rect x="324" y="426" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="360.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>SCRIPT, W35: not run yet (step 3)</title>
+<rect x="398" y="426" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="445" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>SCRIPT, W36: not run yet (step 3)</title>
+<rect x="472" y="426" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="445" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>SCRIPT, W37: 2 of 9 calls</title>
+<rect x="546" y="426" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="582.0" y="445.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>SCRIPT, W38: not run yet (step 3)</title>
+<rect x="620" y="426" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="445" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+<path d="M679 437 l5 -7 l5 7 z" fill="#1f1f1e"/>
+</g>
+<g><title>SCRIPT, W39: not run yet (step 3)</title>
+<rect x="694" y="426" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="445" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>SCRIPT, W40: not run yet (step 3)</title>
+<rect x="768" y="426" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="445" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="478" font-size="12.5" fill="#1f1f1e">Supplier outreach</text>
+<text x="236" y="478" font-size="11" fill="#6b6a66" text-anchor="end">TPL</text>
+<g><title>TPL, W33: 2 of 10 calls</title>
+<rect x="250" y="458" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="286.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>TPL, W34: 1 of 11 calls</title>
+<rect x="324" y="458" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="360.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>TPL, W35: not run yet (step 3)</title>
+<rect x="398" y="458" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="477" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>TPL, W36: not run yet (step 3)</title>
+<rect x="472" y="458" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="477" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>TPL, W37: 4 of 9 calls (released this week)</title>
+<rect x="546" y="458" width="72" height="30" rx="4" fill="#4fa84a" stroke="#4fa84a"/>
+<text x="582.0" y="477.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">4</text>
+<path d="M605 469 l5 -7 l5 7 z" fill="#1f1f1e"/>
+</g>
+<g><title>TPL, W38: not run yet (step 3)</title>
+<rect x="620" y="458" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="477" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>TPL, W39: not run yet (step 3)</title>
+<rect x="694" y="458" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="477" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>TPL, W40: not run yet (step 3)</title>
+<rect x="768" y="458" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="477" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="16" y="508" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">BLOGS AND GUIDES</text>
+<text x="28" y="536" font-size="12.5" fill="#1f1f1e">Dairy on the farm</text>
+<text x="236" y="536" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-1</text>
+<g><title>BLOG-1, W33: 1 of 10 calls</title>
+<rect x="250" y="516" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="286.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-1, W34: 0 of 11 calls</title>
+<rect x="324" y="516" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="360.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-1, W35: not run yet (step 3)</title>
+<rect x="398" y="516" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="535" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-1, W36: not run yet (step 3)</title>
+<rect x="472" y="516" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="535" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-1, W37: 1 of 9 calls</title>
+<rect x="546" y="516" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="535.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-1, W38: not run yet (step 3)</title>
+<rect x="620" y="516" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="535" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-1, W39: not run yet (step 3)</title>
+<rect x="694" y="516" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="535" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-1, W40: not run yet (step 3)</title>
+<rect x="768" y="516" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="535" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="568" font-size="12.5" fill="#1f1f1e">First CSRD report</text>
+<text x="236" y="568" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-2</text>
+<g><title>BLOG-2, W33: 0 of 10 calls</title>
+<rect x="250" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-2, W34: 1 of 11 calls</title>
+<rect x="324" y="548" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="360.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-2, W35: not run yet (step 3)</title>
+<rect x="398" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="567" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-2, W36: not run yet (step 3)</title>
+<rect x="472" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="567" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-2, W37: 0 of 9 calls</title>
+<rect x="546" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="582.0" y="567.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-2, W38: not run yet (step 3)</title>
+<rect x="620" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="567" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-2, W39: not run yet (step 3)</title>
+<rect x="694" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="567" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-2, W40: not run yet (step 3)</title>
+<rect x="768" y="548" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="567" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="600" font-size="12.5" fill="#1f1f1e">Brewery story</text>
+<text x="236" y="600" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-3</text>
+<g><title>BLOG-3, W33: 1 of 10 calls</title>
+<rect x="250" y="580" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="286.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-3, W34: 0 of 11 calls</title>
+<rect x="324" y="580" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="360.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-3, W35: not run yet (step 3)</title>
+<rect x="398" y="580" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="599" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-3, W36: not run yet (step 3)</title>
+<rect x="472" y="580" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="599" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-3, W37: 1 of 9 calls</title>
+<rect x="546" y="580" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="599.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-3, W38: not run yet (step 3)</title>
+<rect x="620" y="580" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="599" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-3, W39: not run yet (step 3)</title>
+<rect x="694" y="580" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="599" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-3, W40: not run yet (step 3)</title>
+<rect x="768" y="580" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="599" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="632" font-size="12.5" fill="#1f1f1e">Retailer scorecard</text>
+<text x="236" y="632" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-4</text>
+<g><title>BLOG-4, W33: 0 of 10 calls (released this week)</title>
+<rect x="250" y="612" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+<path d="M309 623 l5 -7 l5 7 z" fill="#1f1f1e"/>
+</g>
+<g><title>BLOG-4, W34: 1 of 11 calls</title>
+<rect x="324" y="612" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="360.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-4, W35: not run yet (step 3)</title>
+<rect x="398" y="612" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="631" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-4, W36: not run yet (step 3)</title>
+<rect x="472" y="612" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="631" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-4, W37: 1 of 9 calls</title>
+<rect x="546" y="612" width="72" height="30" rx="4" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="582.0" y="631.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">1</text>
+</g>
+<g><title>BLOG-4, W38: not run yet (step 3)</title>
+<rect x="620" y="612" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="631" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-4, W39: not run yet (step 3)</title>
+<rect x="694" y="612" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="631" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-4, W40: not run yet (step 3)</title>
+<rect x="768" y="612" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="631" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="664" font-size="12.5" fill="#1f1f1e">Packaging launch</text>
+<text x="236" y="664" font-size="11" fill="#6b6a66" text-anchor="end">BLOG-PKG</text>
+<g><title>BLOG-PKG, W33: 0 of 10 calls</title>
+<rect x="250" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-PKG, W34: 0 of 11 calls</title>
+<rect x="324" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="360.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-PKG, W35: not run yet (step 3)</title>
+<rect x="398" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="663" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-PKG, W36: not run yet (step 3)</title>
+<rect x="472" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="663" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-PKG, W37: 0 of 9 calls</title>
+<rect x="546" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="582.0" y="663.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>BLOG-PKG, W38: not run yet (step 3)</title>
+<rect x="620" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="663" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-PKG, W39: not run yet (step 3)</title>
+<rect x="694" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="663" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>BLOG-PKG, W40: not run yet (step 3)</title>
+<rect x="768" y="644" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="663" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="28" y="696" font-size="12.5" fill="#1f1f1e">Supplier data guide</text>
+<text x="236" y="696" font-size="11" fill="#6b6a66" text-anchor="end">GUIDE</text>
+<g><title>GUIDE, W33: 2 of 10 calls</title>
+<rect x="250" y="676" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="286.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>GUIDE, W34: 2 of 11 calls</title>
+<rect x="324" y="676" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="360.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>GUIDE, W35: not run yet (step 3)</title>
+<rect x="398" y="676" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="695" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>GUIDE, W36: not run yet (step 3)</title>
+<rect x="472" y="676" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="695" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>GUIDE, W37: 2 of 9 calls</title>
+<rect x="546" y="676" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="582.0" y="695.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>GUIDE, W38: not run yet (step 3)</title>
+<rect x="620" y="676" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="695" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>GUIDE, W39: not run yet (step 3)</title>
+<rect x="694" y="676" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="695" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>GUIDE, W40: not run yet (step 3)</title>
+<rect x="768" y="676" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="695" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<text x="16" y="726" font-size="11" font-weight="600" fill="#6b6a66" letter-spacing="0.6">WEBINARS</text>
+<text x="28" y="754" font-size="12.5" fill="#1f1f1e">Scope change webinar</text>
+<text x="236" y="754" font-size="11" fill="#6b6a66" text-anchor="end">WEB</text>
+<g><title>WEB, W33: 0 of 10 calls</title>
+<rect x="250" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="286.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WEB, W34: 0 of 11 calls</title>
+<rect x="324" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="360.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">0</text>
+</g>
+<g><title>WEB, W35: not run yet (step 3)</title>
+<rect x="398" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="434.0" y="753" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>WEB, W36: not run yet (step 3)</title>
+<rect x="472" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="508.0" y="753" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>WEB, W37: 2 of 9 calls</title>
+<rect x="546" y="734" width="72" height="30" rx="4" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="582.0" y="753.5" font-size="12.5" font-weight="600" fill="#1f1f1e" text-anchor="middle">2</text>
+</g>
+<g><title>WEB, W38: not run yet (step 3)</title>
+<rect x="620" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="656.0" y="753" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>WEB, W39: not run yet (step 3)</title>
+<rect x="694" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="730.0" y="753" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<g><title>WEB, W40: not run yet (step 3)</title>
+<rect x="768" y="734" width="72" height="30" rx="4" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/>
+<text x="804.0" y="753" font-size="12" font-weight="400" fill="#6b6a66" text-anchor="middle">?</text>
+</g>
+<rect x="16" y="792" width="22" height="16" rx="3" fill="#ffffff" stroke="#d6d5d0"/>
+<text x="43" y="804" font-size="11" fill="#6b6a66">0</text>
+<rect x="66" y="792" width="22" height="16" rx="3" fill="#e1f1dc" stroke="#e1f1dc"/>
+<text x="93" y="804" font-size="11" fill="#6b6a66">1</text>
+<rect x="116" y="792" width="22" height="16" rx="3" fill="#bfe2b5" stroke="#bfe2b5"/>
+<text x="143" y="804" font-size="11" fill="#6b6a66">2</text>
+<rect x="166" y="792" width="22" height="16" rx="3" fill="#93cc88" stroke="#93cc88"/>
+<text x="193" y="804" font-size="11" fill="#6b6a66">3</text>
+<rect x="216" y="792" width="22" height="16" rx="3" fill="#4fa84a" stroke="#4fa84a"/>
+<text x="243" y="804" font-size="11" fill="#6b6a66">4</text>
+<rect x="266" y="792" width="22" height="16" rx="3" fill="#137c1b" stroke="#137c1b"/>
+<text x="293" y="804" font-size="11" fill="#6b6a66">5 or more</text>
+<rect x="354" y="792" width="22" height="16" rx="3" fill="#ffffff" stroke="#d6d5d0"/><path d="M361 804 l4 -7 l4 7 z" fill="#1f1f1e"/>
+<text x="381" y="804" font-size="11" fill="#6b6a66">released that week</text>
+<rect x="501.6" y="792" width="22" height="16" rx="3" fill="#f1f0ec" stroke="#d6d5d0"/><text x="512.6" y="804" font-size="11" fill="#6b6a66" text-anchor="middle">·</text>
+<text x="528.6" y="804" font-size="11" fill="#6b6a66">not released yet</text>
+<rect x="636.8" y="792" width="22" height="16" rx="3" fill="#ffffff" stroke="#d6d5d0" stroke-dasharray="3 3"/><text x="647.8" y="804" font-size="11" fill="#6b6a66" text-anchor="middle">?</text>
+<text x="663.8" y="804" font-size="11" fill="#6b6a66">not run yet</text>
+</svg>

@@ -1,0 +1,3 @@
+claim_id,asset_id,version,section_id,strength,released,superseded_on,heading
+C01,DECK-1,1.0,S01,full,2025-06-16,2025-12-01,Built for food
+C01,DECK-2,2.0,S01,full,2025-12-01,,Built for food

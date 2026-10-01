@@ -1,0 +1,3 @@
+week,date,file,stage,call_type,company,team_speakers
+W01,2026-01-12,calls/2026-01-12-acme-discovery.md,discovery,sales,Acme,Jane Doe;Sam Lee
+W01,2026-01-14,calls/2026-01-14-beta-qbr.md,review_renewal,customer success,Beta,Alex Kim
